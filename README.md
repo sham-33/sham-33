@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm a backend engineer at Elocity. I build systems that recover on their own. Day to day, I:
+
 - Build and maintain production microservices with NestJS and TypeORM.
 - Design inter-service communication using Kafka events and REST APIs.
 - Develop background job processing with BullMQ and Redis for reliable, high-concurrency workloads.
