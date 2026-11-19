@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Build and maintain production microservices with NestJS and TypeORM.
+- Design inter-service communication using Kafka events and REST APIs.
+- Develop background job processing with BullMQ and Redis for reliable, high-concurrency workloads.
+- Improve API performance with asynchronous processing, batching and streaming for large data exports.
+- Work on API security, including JWT authentication and RSA/AES encryption.
+- Write unit tests with Jest and help raise code coverage across multiple services.
+- Work with PostgreSQL, TypeORM and Elasticsearch for data storage, search and analytics.
+
+**Tech stack:** Node.js · NestJS · TypeScript · PostgreSQL · TypeORM · Redis · BullMQ · Kafka · Elasticsearch · Docker · Jest · REST APIs · Microservices
